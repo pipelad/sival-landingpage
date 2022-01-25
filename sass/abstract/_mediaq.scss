@@ -134,6 +134,17 @@
 		nav {
 			z-index: 90;
 
+			#nav-language {
+				right: 25vw;
+				color: var(--gris-medio);
+				font-size: 2.5rem;
+
+				a {
+					display: inline-block;
+					margin-top: 1rem;
+				}
+			}
+
 			#movile-hamburger {
 				z-index: 90;
 				display: block;
